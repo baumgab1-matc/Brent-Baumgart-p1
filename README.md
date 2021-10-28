@@ -13,4 +13,4 @@ see project source code
 
  Tasks for features <br>
     -To display services provided, need to create ul element with id so js can grab it. <br>
-    -To display dogs and comments will need to create a container to hold the data in html# Brent-Baumgart-p1 <br>
+    -To display dogs and comments will need to create a container to hold the data in html <br>
